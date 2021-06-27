@@ -1,6 +1,5 @@
 # double-pendulum-control
 
-TEST CHANGE
 A project where a double pendulum system is controlled using reinforcement learning.
 
 **Notes:**
